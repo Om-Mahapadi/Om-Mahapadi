@@ -153,12 +153,7 @@ Built a **Python/Scapy** tool to capture & analyze PCAP traffic, generating visu
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00f5d4&height=2&section=header"/>
 
-<h2 align="center">LIVE TELEMETRY</h2>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=om-mahapadi&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00f5d4&icon_color=00f5d4&text_color=8be9fd&ring_color=00f5d4" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-mahapadi&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00f5d4&text_color=8be9fd" width="40%"/>
 
 <br/>
 

@@ -20,19 +20,26 @@
 
 ## 🛰️ &nbsp;ABOUT THE OPERATOR
 
-```yaml
-identity:
-  name: "Om Mahapadi"
-  degree: "B.Tech, Computer Science & Engineering (Cybersecurity)"
-  university: "MIT School of Computing, Pune  [2022 — 2026]"
-  base: "Mumbai, India"
-  status: "IT Intern @ Schindler India  |  Open to Full-Time Cybersecurity / Cloud Security roles"
+```bash
+$ whoami
+Om Mahapadi — Cybersecurity Engineer in training
 
-mission: >
-  Hands-on experience across SOC operations, SIEM monitoring, vulnerability
-  assessment and cloud security — turning raw logs into real signal,
-  and infrastructure into hardened territory.
+$ cat mission.txt
+Hands-on experience across SOC operations, SIEM monitoring, vulnerability
+assessment and cloud security — turning raw logs into real signal,
+and infrastructure into hardened territory.
 ```
+
+<div align="center">
+
+|  |  |
+|:---|:---|
+| 🎓 **Degree** | B.Tech, Computer Science & Engineering (Cybersecurity) |
+| 🏫 **University** | MIT School of Computing, Pune &nbsp;\| &nbsp;`2022 — 2026` |
+| 📍 **Base** | Mumbai, India |
+| 🟢 **Status** | IT Intern @ Schindler India &nbsp;\|&nbsp; Open to Full-Time Cybersecurity / Cloud Security roles |
+
+</div>
 
 <br/>
 

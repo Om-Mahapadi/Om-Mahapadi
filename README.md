@@ -20,9 +20,11 @@
 
 ## 🛰️ &nbsp;ABOUT THE OPERATOR
 
-```bash
+<div align="center">
+
+```text
 $ whoami
-Om Mahapadi — Cybersecurity Engineer in training
+Om Mahapadi — Cybersecurity Engineer, in training
 
 $ cat mission.txt
 Hands-on experience across SOC operations, SIEM monitoring, vulnerability
@@ -30,14 +32,12 @@ assessment and cloud security — turning raw logs into real signal,
 and infrastructure into hardened territory.
 ```
 
-<div align="center">
-
-|  |  |
-|:---|:---|
-| 🎓 **Degree** | B.Tech, Computer Science & Engineering (Cybersecurity) |
-| 🏫 **University** | MIT School of Computing, Pune &nbsp;\| &nbsp;`2022 — 2026` |
-| 📍 **Base** | Mumbai, India |
-| 🟢 **Status** | IT Intern @ Schindler India &nbsp;\|&nbsp; Open to Full-Time Cybersecurity / Cloud Security roles |
+<table>
+<tr><td>🎓&nbsp;<b>Degree</b></td><td>B.Tech, Computer Science &amp; Engineering (Cybersecurity)</td></tr>
+<tr><td>🏫&nbsp;<b>University</b></td><td>MIT School of Computing, Pune &nbsp;|&nbsp; <code>2022 — 2026</code></td></tr>
+<tr><td>📍&nbsp;<b>Base</b></td><td>Mumbai, India</td></tr>
+<tr><td>🟢&nbsp;<b>Status</b></td><td>IT Intern @ Schindler India &nbsp;|&nbsp; Open to Full-Time Cybersecurity / Cloud Security roles</td></tr>
+</table>
 
 </div>
 

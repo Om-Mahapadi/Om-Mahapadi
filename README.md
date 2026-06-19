@@ -22,15 +22,13 @@
 
 <table align="center"><tr><td>
 
-```text
-$ whoami
-Om Mahapadi — Cybersecurity Engineer, in training
-
-$ cat mission.txt
+<p align="center">
+Cybersecurity Engineer, in training.
+<br/><br/>
 Hands-on experience across SOC operations, SIEM monitoring, vulnerability
 assessment and cloud security — turning raw logs into real signal,
 and infrastructure into hardened territory.
-```
+</p>
 
 </td></tr></table>
 
@@ -44,6 +42,7 @@ and infrastructure into hardened territory.
 </table>
 
 </div>
+
 
 <br/>
 

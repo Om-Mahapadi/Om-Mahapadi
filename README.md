@@ -20,7 +20,7 @@
 
 ## 🛰️ &nbsp;ABOUT THE OPERATOR
 
-<div align="center">
+<table align="center"><tr><td>
 
 ```text
 $ whoami
@@ -31,6 +31,10 @@ Hands-on experience across SOC operations, SIEM monitoring, vulnerability
 assessment and cloud security — turning raw logs into real signal,
 and infrastructure into hardened territory.
 ```
+
+</td></tr></table>
+
+<div align="center">
 
 <table>
 <tr><td>🎓&nbsp;<b>Degree</b></td><td>B.Tech, Computer Science &amp; Engineering (Cybersecurity)</td></tr>

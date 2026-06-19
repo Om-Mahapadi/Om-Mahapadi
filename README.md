@@ -20,9 +20,9 @@
 
 <h2 align="center">ABOUT THE OPERATOR</h2>
 
-<table align="center"><tr><td>
+<div align="center">
 
-```text
+<pre style="display:inline-block; text-align:left; background:#0d1117; border:1px solid #30363d; border-radius:6px; padding:18px 24px; font-family:monospace;">
 $ whoami
 Om Mahapadi — Cybersecurity Engineer, in training
 
@@ -30,9 +30,9 @@ $ cat mission.txt
 Hands-on experience across SOC operations, SIEM monitoring, vulnerability
 assessment and cloud security — turning raw logs into real signal,
 and infrastructure into hardened territory.
-```
+</pre>
 
-</td></tr></table>
+</div>
 
 <div align="center">
 

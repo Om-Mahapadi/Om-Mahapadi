@@ -20,30 +20,20 @@
 
 <h2 align="center">ABOUT THE OPERATOR</h2>
 
-<table align="center"><tr><td>
-
-<p align="center">
-Cybersecurity Engineer, in training.
-<br/><br/>
-Hands-on experience across SOC operations, SIEM monitoring, vulnerability
-assessment and cloud security — turning raw logs into real signal,
-and infrastructure into hardened territory.
-</p>
-
-</td></tr></table>
-
 <div align="center">
 
 <table>
+<tr><td><b>Role</b></td><td>Cybersecurity Engineer, in training</td></tr>
 <tr><td><b>Degree</b></td><td>B.Tech, Computer Science &amp; Engineering (Cybersecurity)</td></tr>
 <tr><td><b>University</b></td><td>MIT School of Computing, Pune &nbsp;|&nbsp; <code>2022 — 2026</code></td></tr>
 <tr><td><b>Base</b></td><td>Mumbai, India</td></tr>
 <tr><td><b>Status</b></td><td>IT Intern @ Schindler India &nbsp;|&nbsp; Open to Full-Time Cybersecurity / Cloud Security roles</td></tr>
+<tr><td><b>Focus</b></td><td>SOC operations, SIEM monitoring, vulnerability assessment, and cloud security — turning raw logs into real signal, and infrastructure into hardened territory</td></tr>
 </table>
 
 </div>
 
-
+<br/>
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00f5d4&height=2&section=header"/>

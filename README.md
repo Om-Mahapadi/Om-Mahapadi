@@ -18,7 +18,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00f5d4&height=2&section=header"/>
 
-## ABOUT THE OPERATOR
+<h2 align="center">ABOUT THE OPERATOR</h2>
 
 <table align="center"><tr><td>
 
@@ -49,7 +49,7 @@ and infrastructure into hardened territory.
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00f5d4&height=2&section=header"/>
 
-## ARSENAL
+<h2 align="center">ARSENAL</h2>
 
 <div align="center">
 
@@ -86,7 +86,7 @@ and infrastructure into hardened territory.
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00f5d4&height=2&section=header"/>
 
-## MISSION LOG // EXPERIENCE
+<h2 align="center">MISSION LOG // EXPERIENCE</h2>
 
 <table width="100%">
 <tr>
@@ -119,7 +119,7 @@ and infrastructure into hardened territory.
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00f5d4&height=2&section=header"/>
 
-## DEPLOYED PROJECTS
+<h2 align="center">DEPLOYED PROJECTS</h2>
 
 <div align="center">
 
@@ -164,7 +164,7 @@ Built a **Python/Scapy** tool to capture & analyze PCAP traffic, generating visu
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00f5d4&height=2&section=header"/>
 
-## CERTIFICATIONS
+<h2 align="center">CERTIFICATIONS</h2>
 
 <div align="center">
 
@@ -179,7 +179,7 @@ Built a **Python/Scapy** tool to capture & analyze PCAP traffic, generating visu
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00f5d4&height=2&section=header"/>
 
-## LEADERSHIP & ACTIVITIES
+<h2 align="center">LEADERSHIP & ACTIVITIES</h2>
 
 <div align="center">
 
@@ -197,7 +197,7 @@ Built a **Python/Scapy** tool to capture & analyze PCAP traffic, generating visu
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00f5d4&height=2&section=header"/>
 
-## LIVE TELEMETRY
+<h2 align="center">LIVE TELEMETRY</h2>
 
 <div align="center">
 

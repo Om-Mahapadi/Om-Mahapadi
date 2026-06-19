@@ -75,39 +75,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00f5d4&height=2&section=header"/>
 
-<h2 align="center">MISSION LOG // EXPERIENCE</h2>
-
-<table width="100%">
-<tr>
-<td width="100%">
-
-#### `IT Intern` — Schindler India
-<sub>**Feb 2026 — Present**</sub>
-
-- Built & deployed **PowerApps** canvas applications for internal business workflows
-- Designed multi-level approval systems with dynamic status tracking & escalation logic using **Power Automate** + **SharePoint**
-- Streamlined cross-functional operations via centralized workflow automation
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-#### `Cybersecurity Intern` — Cyber Secured India
-<sub>**Apr 2025 — Jul 2025**</sub>
-
-- Conducted vulnerability assessments & web application testing using **Nmap** + **Burp Suite**
-- Supported **SIEM-based monitoring**, log analysis & threat detection
-- Contributed to incident response workflows & SOC operations
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00f5d4&height=2&section=header"/>
-
 <h2 align="center">DEPLOYED PROJECTS</h2>
 
 <div align="center">

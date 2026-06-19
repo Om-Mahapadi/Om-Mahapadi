@@ -18,7 +18,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00f5d4&height=2&section=header"/>
 
-## 🛰️ &nbsp;ABOUT THE OPERATOR
+## ABOUT THE OPERATOR
 
 <table align="center"><tr><td>
 
@@ -37,10 +37,10 @@ and infrastructure into hardened territory.
 <div align="center">
 
 <table>
-<tr><td>🎓&nbsp;<b>Degree</b></td><td>B.Tech, Computer Science &amp; Engineering (Cybersecurity)</td></tr>
-<tr><td>🏫&nbsp;<b>University</b></td><td>MIT School of Computing, Pune &nbsp;|&nbsp; <code>2022 — 2026</code></td></tr>
-<tr><td>📍&nbsp;<b>Base</b></td><td>Mumbai, India</td></tr>
-<tr><td>🟢&nbsp;<b>Status</b></td><td>IT Intern @ Schindler India &nbsp;|&nbsp; Open to Full-Time Cybersecurity / Cloud Security roles</td></tr>
+<tr><td><b>Degree</b></td><td>B.Tech, Computer Science &amp; Engineering (Cybersecurity)</td></tr>
+<tr><td><b>University</b></td><td>MIT School of Computing, Pune &nbsp;|&nbsp; <code>2022 — 2026</code></td></tr>
+<tr><td><b>Base</b></td><td>Mumbai, India</td></tr>
+<tr><td><b>Status</b></td><td>IT Intern @ Schindler India &nbsp;|&nbsp; Open to Full-Time Cybersecurity / Cloud Security roles</td></tr>
 </table>
 
 </div>
@@ -49,17 +49,17 @@ and infrastructure into hardened territory.
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00f5d4&height=2&section=header"/>
 
-## 🧠 &nbsp;ARSENAL
+## ARSENAL
 
 <div align="center">
 
-### 🔴 Cybersecurity Ops
+### Cybersecurity Ops
 ![SIEM](https://img.shields.io/badge/SIEM%20Monitoring-0d1b2a?style=for-the-badge&logo=elastic&logoColor=00f5d4)
 ![Threat](https://img.shields.io/badge/Threat%20Analysis-0d1b2a?style=for-the-badge&logo=shieldcheck&logoColor=00f5d4)
 ![VAPT](https://img.shields.io/badge/Vulnerability%20Assessment-0d1b2a?style=for-the-badge&logo=hackthebox&logoColor=00f5d4)
 ![IR](https://img.shields.io/badge/Incident%20Response-0d1b2a?style=for-the-badge&logo=fireship&logoColor=00f5d4)
 
-### 🛠️ Security Tooling
+### Security Tooling
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=00f5d4)
 ![BurpSuite](https://img.shields.io/badge/Burp%20Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=00f5d4)
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00f5d4)
@@ -67,11 +67,11 @@ and infrastructure into hardened territory.
 ![Kali](https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00f5d4)
 ![Scapy](https://img.shields.io/badge/Scapy%20%2F%20Tcpdump-000000?style=for-the-badge&logo=python&logoColor=00f5d4)
 
-### ☁️ Cloud & Infra
+### Cloud & Infra
 ![AWS](https://img.shields.io/badge/AWS%20EC2-000000?style=for-the-badge&logo=amazonaws&logoColor=00f5d4)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-000000?style=for-the-badge&logo=amazoncloudwatch&logoColor=00f5d4)
 
-### 💻 Programming & Automation
+### Programming & Automation
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00f5d4)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00f5d4)
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00f5d4)
@@ -86,13 +86,13 @@ and infrastructure into hardened territory.
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00f5d4&height=2&section=header"/>
 
-## 🛰️ &nbsp;MISSION LOG &nbsp;//&nbsp; EXPERIENCE
+## MISSION LOG // EXPERIENCE
 
 <table width="100%">
 <tr>
 <td width="100%">
 
-#### 🟢 `IT Intern` — Schindler India
+#### `IT Intern` — Schindler India
 <sub>**Feb 2026 — Present**</sub>
 
 - Built & deployed **PowerApps** canvas applications for internal business workflows
@@ -104,7 +104,7 @@ and infrastructure into hardened territory.
 <tr>
 <td width="100%">
 
-#### 🔴 `Cybersecurity Intern` — Cyber Secured India
+#### `Cybersecurity Intern` — Cyber Secured India
 <sub>**Apr 2025 — Jul 2025**</sub>
 
 - Conducted vulnerability assessments & web application testing using **Nmap** + **Burp Suite**
@@ -119,7 +119,7 @@ and infrastructure into hardened territory.
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00f5d4&height=2&section=header"/>
 
-## 🚀 &nbsp;DEPLOYED PROJECTS
+## DEPLOYED PROJECTS
 
 <div align="center">
 
@@ -127,7 +127,7 @@ and infrastructure into hardened territory.
 <tr>
 <td width="33%" valign="top">
 
-### 🍯 Honeypot Deployment
+### Honeypot Deployment
 **Cloud Security** &nbsp;`Jul–Dec 2024`
 
 Led deployment of an **AWS EC2 honeypot** with integrated **CloudWatch** monitoring for live attack-pattern capture.
@@ -137,7 +137,7 @@ Led deployment of an **AWS EC2 honeypot** with integrated **CloudWatch** monitor
 </td>
 <td width="33%" valign="top">
 
-### 📊 SIEM Monitoring Tool
+### SIEM Monitoring Tool
 **Security Engineering** &nbsp;`Jan–May 2025`
 
 Built a **Splunk-powered SIEM** system with log aggregation, real-time alerting & custom dashboards.
@@ -147,7 +147,7 @@ Built a **Splunk-powered SIEM** system with log aggregation, real-time alerting 
 </td>
 <td width="33%" valign="top">
 
-### 📡 Packet Sniffing & Traffic Analysis
+### Packet Sniffing & Traffic Analysis
 **Network Security** &nbsp;`Jan–May 2024`
 
 Built a **Python/Scapy** tool to capture & analyze PCAP traffic, generating visual analytics on network behavior.
@@ -164,7 +164,7 @@ Built a **Python/Scapy** tool to capture & analyze PCAP traffic, generating visu
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00f5d4&height=2&section=header"/>
 
-## 🎖️ &nbsp;CERTIFICATIONS
+## CERTIFICATIONS
 
 <div align="center">
 
@@ -179,15 +179,15 @@ Built a **Python/Scapy** tool to capture & analyze PCAP traffic, generating visu
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00f5d4&height=2&section=header"/>
 
-## 🛡️ &nbsp;LEADERSHIP & ACTIVITIES
+## LEADERSHIP & ACTIVITIES
 
 <div align="center">
 
 | Role | Organization |
 |:---|:---|
-| 🧩 Management Lead | Cybershakti |
-| 🧩 Management Lead | GDSC MITADT |
-| 🎨 Design Member | Cybershakti |
+| Management Lead | Cybershakti |
+| Management Lead | GDSC MITADT |
+| Design Member | Cybershakti |
 
 **Languages:** English &nbsp;•&nbsp; Hindi &nbsp;•&nbsp; Marathi
 
@@ -197,7 +197,7 @@ Built a **Python/Scapy** tool to capture & analyze PCAP traffic, generating visu
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00f5d4&height=2&section=header"/>
 
-## 📡 &nbsp;LIVE TELEMETRY
+## LIVE TELEMETRY
 
 <div align="center">
 
@@ -220,7 +220,7 @@ Built a **Python/Scapy** tool to capture & analyze PCAP traffic, generating visu
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=8BE9FD&center=true&vCenter=true&width=600&lines=%24+echo+%22Thanks+for+stopping+by%22;%24+connect+--linkedin+om-mahapadi;System+status%3A+ONLINE+%E2%9C%94" alt="footer typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=8BE9FD&center=true&vCenter=true&width=600&lines=%24+echo+%22Thanks+for+stopping+by%22;%24+connect+--linkedin+om-mahapadi;System+status%3A+ONLINE" alt="footer typing"/>
 
 <br/>
 

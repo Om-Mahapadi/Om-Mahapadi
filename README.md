@@ -153,12 +153,6 @@ Built a **Python/Scapy** tool to capture & analyze PCAP traffic, generating visu
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00f5d4&height=2&section=header"/>
 
-
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=om-mahapadi&theme=dark&hide_border=true&background=000000&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4" width="60%"/>
-
 <br/><br/>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
